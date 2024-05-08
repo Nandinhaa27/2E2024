@@ -4,15 +4,15 @@
 }
 
 .cabecalho{
-    background-color: #bfc2c7;
-    color: #000000;
+    background-color: #161b52;
+    color: #ffffff;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .cabecalho-imagem{
-    width: 19%;
+    width: 10%;
     
 }
 
