@@ -26,6 +26,7 @@ body {
 
 .escola-imagem{
     width: 30%;
+
 }
 
 .escola{
@@ -91,4 +92,7 @@ p{
     height: 60px;
     padding: 12px 0;
    
+}
+.teste{
+    margin: 25px;
 }
